@@ -1,0 +1,10 @@
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\obj\Debug\SecondTryFullScreen.csprojAssemblyReference.cache
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\obj\Debug\SecondTryFullScreen.Form1.resources
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\obj\Debug\SecondTryFullScreen.Properties.Resources.resources
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\obj\Debug\SecondTryFullScreen.csproj.GenerateResource.cache
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\obj\Debug\SecondTryFullScreen.csproj.CoreCompileInputs.cache
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\bin\Debug\SecondTryFullScreen.exe.config
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\bin\Debug\SecondTryFullScreen.exe
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\bin\Debug\SecondTryFullScreen.pdb
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\obj\Debug\SecondTryFullScreen.exe
+C:\Users\Sam J\source\repos\SecondTryFullScreen\SecondTryFullScreen\obj\Debug\SecondTryFullScreen.pdb
